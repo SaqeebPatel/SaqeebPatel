@@ -1,4 +1,4 @@
-Hi 👋 My name is Saqeeb Patel
+Hi 👋 I'm Saqeeb Patel
 =============================
 
 Full Stack Developer
