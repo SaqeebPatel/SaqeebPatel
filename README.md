@@ -1,7 +1,7 @@
 Hi 👋 I'm Saqeeb Patel
 =============================
 
-Full Stack Developer
+MERN Stack Developer
 --------------------
 
 Recent graduate with MERN stack experience (MongoDB, Express.js, React.js, Node.js). Skilled in React.js, Node.js, Express.js, HTML, CSS, and JavaScript. Working on application development projects and also experience in java, Android Studio IDE . Fast learner, goal-oriented, and adaptable. Works well individually and in teams.
