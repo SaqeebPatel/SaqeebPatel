@@ -9,7 +9,7 @@ Recent graduate with MERN stack experience (MongoDB, Express.js, React.js, Node.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MY Portfolio](http://saqeeb.onrender.com/)
 * ✉️  You can contact me at [saqeeb3p@gmail.com](mailto:saqeeb3p@gmail.com)
-* 🧠  I'm learning React.js | JavaScript | Node.js | MySQL | MongoDB | ExpressJS
+* 🧠  I'm learning Advanced React patterns and server-side rendering.
 
 ### Skills
 
